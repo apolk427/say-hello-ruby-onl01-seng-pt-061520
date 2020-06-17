@@ -1,3 +1,3 @@
-def say_hello{Gabriela}
+def say hello{Gabriela}
   puts "Hello Gabriela!"
 end
